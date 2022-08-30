@@ -6,11 +6,11 @@
 
 ### Attendees/Role:
 - Brandon Blair
-- Megan Cru
+- Megan Cruz
 - Matthew Slusser
-- Isabelle Barger
+- Isabelle Barga
 - Olivia Burke
-- Breeanna Skinner
+- Bree Skinner
 
 ### Project Title:
 **TBD**
