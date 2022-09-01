@@ -35,8 +35,6 @@
 ### Identify Initial Sprint Backlog
 - Identify what is to be implemented first, second, third, etc.
 
----
-
 ## Sprint Execution
 ### Sprint Planning:
 #### Inputs:
