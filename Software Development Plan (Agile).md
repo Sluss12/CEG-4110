@@ -66,8 +66,6 @@
 - Updated sprint backlog
 - Meeting minutes (date, time, attendees, at a minimum)
 
----
-
 ### Sprint Review
 #### Inputs:
 - Sprint backlog
